@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://octodex.github.com/images/dunetocat.png" width="200">
-<p>This is some centered text.</p>
+<p>...</p>
 </div>
 
 ```javascript
