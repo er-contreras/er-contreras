@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 
 ```javascript
 const christianErick = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
+  lookingFor: "Full-stack web developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, CSS],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, CSS],
   askMeAbout: [Music, Books, Games, Hobbies],
-  challenge: "I am learning as fast I can to achieve my goals",
-  funFacts: ['I dont have any background on Tech before Microverse',
+  funFacts: ['I dont have any background on Tech before Microverse' 😅],
 }
 ```
