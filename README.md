@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 const christianErick = {
   lookingFor: "Full-stack web developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, CSS],
-  askMeAbout: [Music, Books, Games, Hobbies],
-  funFacts: ['I dont have any background on Tech before Microverse' 😅],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML, CSS],
+  askMeAbout: [Music, Books, Hobbies],
+  Facts: ['We can't improve if we keep the same habits' 😅],
 }
 ```
