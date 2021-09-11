@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="background-color: gray;" align="center">
+<div style="backgroundColor: gray;" align="center">
 <img src="https://octodex.github.com/images/dunetocat.png" width="200">
 <p>...</p>
 </div>
