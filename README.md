@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<!-- <img src="https://octodex.github.com/images/dunetocat.png" width="200"> -->
-![moon](https://user-images.githubusercontent.com/67211919/132962841-f21fca0f-e1ef-4414-a35e-324352edb867.jpeg)
+<img src="https://user-images.githubusercontent.com/67211919/132962841-f21fca0f-e1ef-4414-a35e-324352edb867.jpeg" width="200">
+<!-- ![moon](https://user-images.githubusercontent.com/67211919/132962841-f21fca0f-e1ef-4414-a35e-324352edb867.jpeg) -->
   
 <p>...</p>
 </div>
