@@ -1,4 +1,3 @@
-![moon](https://user-images.githubusercontent.com/67211919/132962841-f21fca0f-e1ef-4414-a35e-324352edb867.jpeg)
 ### Hi there 👋
 
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
@@ -21,8 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="backgroundColor: gray;" align="center">
-<img src="https://octodex.github.com/images/dunetocat.png" width="200">
+<div align="center">
+<!-- <img src="https://octodex.github.com/images/dunetocat.png" width="200"> -->
+![moon](https://user-images.githubusercontent.com/67211919/132962841-f21fca0f-e1ef-4414-a35e-324352edb867.jpeg)
+  
 <p>...</p>
 </div>
 
