@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/67211919/132962841-f21fca0f-e1ef-4414-a35e-324352edb867.jpeg" width="200">
   <br>
 <!-- ![sky](https://user-images.githubusercontent.com/67211919/132962911-6a26f16f-20c2-4ae3-a5a1-065143ce86c0.jpg) -->
-<img src="https://user-images.githubusercontent.com/67211919/132962911-6a26f16f-20c2-4ae3-a5a1-065143ce86c0.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/67211919/132962911-6a26f16f-20c2-4ae3-a5a1-065143ce86c0.jpg" width="800">
   
   
   
