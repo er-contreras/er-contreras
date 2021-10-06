@@ -37,6 +37,6 @@ const christianErick = {
   pronouns: ["he", "him"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML, CSS],
   askMeAbout: [Music, Books, Hobbies],
-  Facts: ['We can't improve if we keep the same habits' 😅],
+  Facts: ['We can't improve if we keep the same bad habits'],
 }
 ```
