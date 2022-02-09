@@ -1,4 +1,4 @@
-### Hi there 👋
+### Of course, I don't know the answer. The skill is what questions we do. 👋
 
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
 
