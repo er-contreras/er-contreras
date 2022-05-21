@@ -19,10 +19,6 @@ class ChristianErick
     'Full-Stack Web Developer'
   end
 
-  def pronouns
-    %w[he him]
-  end
-
   def code
     %w[Ruby on Rails JavaScript React Redux  HTML CSS]
   end
