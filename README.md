@@ -2,7 +2,7 @@
 
 <p><em>Remote Full Stack Web Developer</em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Christian%20Erick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/er-contreras/)](https://www.linkedin.com/in/christian-erick/)
+[![Linkedin Badge](https://img.shields.io/badge/-Christian%20Erick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/er-contreras/)](https://www.linkedin.com/in/er-contreras/)
 [![Twitter Badge](https://img.shields.io/badge/-@ChristianErick__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChristianErick_)](https://twitter.com/ChristianErick_)
 
 <div align="center">
