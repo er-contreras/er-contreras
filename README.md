@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I’ve been learning to code for 3 years, after switching careers. I started with HTML, but have really found a passion for backend development.
+I’ve been learning to code for 4 years, after switching careers. I started with HTML, but have really found a passion for backend development.
 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [er.contreras@hotmail.com](mailto:er.contreras@hotmail.com)
