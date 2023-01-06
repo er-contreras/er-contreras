@@ -4,9 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -------------
 
-Hello there!
-
-
 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [er.contreras@hotmail.com](mailto:er.contreras@hotmail.com)
