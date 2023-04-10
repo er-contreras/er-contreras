@@ -11,8 +11,8 @@ Full-Stack Web Developer
 *   🧠  I'm learning Stimulus and Turbo frames
 *   🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/ChristianErick_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ChristianErick_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/er_contreras_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/er_contreras_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/er-contreras" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/er-contreras?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
