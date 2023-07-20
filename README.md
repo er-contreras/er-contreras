@@ -8,7 +8,7 @@ Full-Stack Web Developer
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [er.contreras@hotmail.com](mailto:er.contreras@hotmail.com)
 *   🚀  I'm currently working on [time management app](https://github.com/er-contreras/time_management_FE)
-*   🧠  I'm learning Stimulus and Turbo frames
+*   🧠  I'm constantly learning.
 *   🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/er_contreras_" target="_blank" rel="noreferrer"><img
