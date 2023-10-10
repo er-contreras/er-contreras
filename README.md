@@ -7,7 +7,7 @@ Ruby on Rails and React Developer
 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [er.contreras@hotmail.com](mailto:er.contreras@hotmail.com)
-*   🚀  I'm currently working on [Pay bills on time](https://github.com/er-contreras/pay_bills_on_time)
+*   🚀  I'm currently working on Cívica Digital
 *   🧠  I'm constantly learning.
 *   🤝  I'm open to collaborating on interesting projects
 
