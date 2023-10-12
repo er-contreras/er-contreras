@@ -1,15 +1,15 @@
 Hi I'm Erick Contreras
 =======================================================================================================================================
 
-Ruby on Rails and React Developer
+Software Engineer
 -------------
 
 
-*   🌍  I'm based in Mexico
+*   🌍  I'm based in Querétaro, México
 *   ✉️  You can contact me at [er.contreras@hotmail.com](mailto:er.contreras@hotmail.com)
 *   🚀  I'm currently working on Cívica Digital
 *   🧠  I'm constantly learning.
-*   🤝  I'm open to collaborating on interesting projects
+*   🤝  I'm open to collaborating on open-source projects.
 
 <a href="https://www.twitter.com/er_contreras_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/er_contreras_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
