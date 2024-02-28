@@ -7,7 +7,7 @@ Software Engineer
 
 *   🌍  I'm based in Querétaro, México
 *   ✉️  You can contact me at [er.contreras@hotmail.com](mailto:er.contreras@hotmail.com)
-*   🚀  I'm currently working on Cívica Digital
+*   🚀 
 *   🧠  I'm constantly learning.
 *   🤝  I'm open to collaborating on open-source projects.
 
