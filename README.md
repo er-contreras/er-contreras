@@ -1,6 +1,5 @@
-# Hi I'm Erick Contreras
-
-* Website: [ercntreras.com](https://www.ercntreras.com/)
+# Feel free to take a look
+* Website: [ercntreras.com](https://www.ercntreras.com/) out of service for repairs
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/er-contreras/)
 
 <a href="https://www.twitter.com/er_contreras_" target="_blank" rel="noreferrer">
