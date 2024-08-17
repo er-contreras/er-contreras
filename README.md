@@ -1,11 +1,8 @@
 # Feel free to take a look
-* Website: [ercntreras.com](https://www.ercntreras.com/) out of service for repairs
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/er-contreras/)
 
-<a href="https://www.twitter.com/er_contreras_" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/er_contreras_?logo=twitter" alt=""/>
-</a>
-
+<a href="https://www.twitter.com/er_contreras_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/er_contreras_" alt=""/></a>
+<a href="https://www.linkedin.com/in/er-contreras" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/er-contreras/" alt=""/></a>
+    
 ## My Development Skills
 
 #### Experienced
