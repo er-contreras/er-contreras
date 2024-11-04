@@ -23,6 +23,7 @@
     <img alt="zsh" title="Bash" src="icons/bash.svg" height="40">
     <img alt="C" title="C" src="icons/c.svg" height="40">
     <img alt="Assembly" title="ASM" src="icons/asm.svg" height="40">
+    <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
 </p>
 
 ### Badges
